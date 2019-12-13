@@ -1,4 +1,4 @@
-# csm-customerServiceManagement# Customer Service Management
+# Customer Service Management
 
 Customer Service Management (CSM) is a software to manage beauty establishments.
 
